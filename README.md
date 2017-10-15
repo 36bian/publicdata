@@ -1,3 +1,3 @@
 文件名|内容
 ---|---
-ExifTranslate_zh|Exif 参数中文翻译文档
+DC-008-2012_E_clip|Exif Spec v2.3 Tag
